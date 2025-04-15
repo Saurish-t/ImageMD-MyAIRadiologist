@@ -1,4 +1,4 @@
-# **imageMD: Intelligent Medical Image Analysis**  
+# **imageMD: Intelligent Medical Image Analysis**  Biocode 2025 winner
 
 **imageMD** is an advanced medical imaging application designed to assist radiologists in diagnosing conditions using AI-driven image analysis. The platform integrates deep learning models to detect abnormalities in radiographic scans, providing real-time insights and diagnostic assistance.  
 
